@@ -9,7 +9,7 @@ Write a Prolog program to build a medical Diagnosis Expert System.
 3. If patient have mumps then symptoms are fever and swollen glands.
 4. If patient have cough, sneeze and running nose then disease is measles.
 5. if patient have symptoms headache ,sneezing ,sore_throat, runny_nose and  chills then disease is common cold.
-6. Define rules for all disease.
+6. Define rules for all disease
 7. Call the predicates and Collect the symptoms of Patient and give the hypothesis of disease.
         
 
